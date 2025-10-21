@@ -58,7 +58,13 @@ sudo systemctl start aria2.service
 
 ## Browser Extensions
 
-[Chrome]
-(https://chromewebstore.google.com/detail/aria2-explorer/mpkodccbngfoacfalldjimigbofkhgjn?hl=en)
-[Firefox]
-(https://addons.mozilla.org/en-US/firefox/addon/aria2manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[Chrome](https://chromewebstore.google.com/detail/aria2-explorer/mpkodccbngfoacfalldjimigbofkhgjn?hl=en)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/aria2manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+You can Import extension setting inside this repo
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/955fb56e-b529-4044-bde1-eb875c28d292" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d4e60ca0-86cb-4fc4-a0f5-2285a75acac6" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f955d07-014b-4f5f-ae12-8f3cd92ab3e6" />
+
+
+
