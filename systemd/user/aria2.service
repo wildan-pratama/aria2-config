@@ -1,0 +1,13 @@
+[Unit]
+Description=aria2c download daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/aria2c --conf-path=/home/xyz/.config/aria2/aria2.conf
+Restart=on-failure
+Environment=HOME=/home/xyz
+Environment=USER=xyz
+Environment=PATH=/usr/local/bin:/usr/bin:/bin
+
+[Install]
+WantedBy=default.target
